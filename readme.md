@@ -44,12 +44,16 @@ Foram criados 4 testes para o código
 
 1- instale as dependencias necesarias:
 
-pip install Flask
-pip3 install --upgrade watchdog
-pip install pandas
-pip install pytest
-pip install sqlalchemy
-pip install requests
+```python
+  pip install Flask
+  pip3 install --upgrade watchdog
+  pip install pandas
+  pip install pytest
+  pip install sqlalchemy
+  pip install requests
+
+```
+
 
 2- No ubuntu acesse a pasta onde estão os arquivos
 
@@ -62,9 +66,13 @@ pip install requests
 # Como realizar os testes: 
 
 1- instale as dependências necessárias mencionadas acima
+
 2- No ubuntu acesse a pasta onde estão os arquivos
+
 3- Utilize o phyton para rodar o codigo app.py para abrir a API flask
+
 4- digite pytest para executar os testes
+
 5- espere os resultados
 
 # Observações:
