@@ -69,7 +69,7 @@ Foram criados 4 testes para o código
 
 2- No ubuntu acesse a pasta onde estão os arquivos
 
-3- Utilize o phyton para rodar o codigo app.py para abrir a API flask
+3- Em um terminal separado utilize o phyton para rodar o codigo app.py para abrir a API flask
 
 4- digite pytest para executar os testes
 
